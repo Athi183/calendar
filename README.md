@@ -1,11 +1,11 @@
-### Calendar Viewer in Python 🗓️
+# Calendar Viewer in Python 🗓️
 This Python script allows you to view the calendar for a specific month or an entire year using the calendar module.
 
-# Features:
+## Features:
 1. Displays a chosen month's calendar by entering the year and month.
 2. Prints the full year's calendar in a neatly formatted text layout.
 
-# Key Commands
+## Key Commands
 
 1. calendar.month(year, month)
   Used to generate a formatted string representation of a specific month in the specified year.
